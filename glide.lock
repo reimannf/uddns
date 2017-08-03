@@ -1,0 +1,10 @@
+hash: 96b0b5bce68865f3d7c6968cc093bd20bd791b81a4d722dbc878b61a98c8b5b4
+updated: 2017-08-02T12:56:14.81663071+02:00
+imports:
+- name: github.com/kolo/xmlrpc
+  version: 0826b98aaa29c0766956cb40d45cf7482a597671
+- name: github.com/prasmussen/gandi-api
+  version: 13205dc554f4aeb75c93e8b57ad1e3d6fa3be5d5
+  subpackages:
+  - client
+testImports: []

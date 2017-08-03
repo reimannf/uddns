@@ -1,0 +1,5 @@
+package: github.com/reimannf/ddns
+import:
+- package: github.com/prasmussen/gandi-api
+  subpackages:
+  - client

@@ -1,0 +1,6 @@
+# build artifacts
+build/
+
+# Vendor packages can be retrieved with make depend
+vendor/
+

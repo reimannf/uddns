@@ -1,4 +1,4 @@
-# UDNS
+# UDDNS
 
 A **U**niversal **D**ynamic **DNS** updater supporting different DNS Providers.
 
